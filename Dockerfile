@@ -1,4 +1,4 @@
-FROM fore84/oracle-jdk:8
+FROM fore84/oracle-jdk:1.8
 
 MAINTAINER Frank Ore <frank.ore@live.com>
 
